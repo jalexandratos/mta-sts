@@ -3,8 +3,3 @@ mode: enforce
 max_age: 86400
 mx: in1-smtp.messagingengine.com
 mx: in2-smtp.messagingengine.com
-mx: gmr-smtp-in.l.google.com
-mx: alt1.gmr-smtp-in.l.google.com
-mx: alt2.gmr-smtp-in.l.google.com
-mx: alt3.gmr-smtp-in.l.google.com
-mx: alt4.gmr-smtp-in.l.google.com
